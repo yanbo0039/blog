@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-792b51b5","path":"/zh/2023/ServerSideLanguage/","title":"Server Side Language","lang":"en-US","frontmatter":{"title":"Server Side Language","article":false,"feed":false,"sitemap":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.03,"words":10},"filePathRelative":null}');export{e as data};

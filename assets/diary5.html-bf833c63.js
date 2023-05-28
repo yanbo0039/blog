@@ -1,0 +1,1 @@
+import{_ as o,X as a,Y as r,a1 as c,Z as e,$ as t}from"./framework-68dd73a2.js";const n={},l=e("blockquote",null,[e("p",null,[t("今天学到一句话 "),e("strong",null,"先变成自己喜欢的样子，再遇见无需取悦的人"),t(",希望自己接下的三年时间核心思想就围绕着这句话操作了。")])],-1);function s(_,d){return a(),r("div",null,[c(" more "),l])}const u=o(n,[["render",s],["__file","diary5.html.vue"]]);export{u as default};
