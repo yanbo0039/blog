@@ -1,1 +1,0 @@
-import{_ as o,X as c,Y as n,a1 as a,Z as e,$ as t}from"./framework-68dd73a2.js";const l={},r=e("blockquote",null,[e("p",null,[t("今天学到一句话 "),e("strong",null,"先变成自己喜欢的样子，再遇见无需取悦的人"),t(",希望自己接下的三年时间核心思想就围绕着这句话操作了。")])],-1);function s(_,m){return c(),n("div",null,[a(" more "),r])}const d=o(l,[["render",s],["__file","5-2020-02-12.html.vue"]]);export{d as default};
