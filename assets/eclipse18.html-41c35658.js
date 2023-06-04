@@ -1,0 +1,16 @@
+import{_ as t,X as i,Y as e,a1 as n,a0 as s}from"./framework-68dd73a2.js";const a="/blog/assets/Eclipse_18_1.png",l="/blog/assets/Eclipse_18_2.png",o="/blog/assets/Eclipse_18_3.png",c="/blog/assets/Eclipse_18_4.png",g="/blog/assets/Eclipse_18_5.png",r="/blog/assets/Eclipse_18_6.png",d="/blog/assets/Eclipse_18_7.png",p="/blog/assets/Eclipse_18_8.png",u={},m=s('<h1 id="_18-eclipse设置jsp页面为html5格式" tabindex="-1"><a class="header-anchor" href="#_18-eclipse设置jsp页面为html5格式" aria-hidden="true">#</a> 18-Eclipse设置JSP页面为HTML5格式</h1><div class="hint-container warning"><p class="hint-container-title">注意</p><p>本博文仅供学术研究和交流参考，严禁将其用于商业用途。如因违规使用产生的任何法律问题，使用者需自行负责。</p></div><ol><li>设置：window ---&gt; preferences ---&gt; web ---&gt; jspFiles ---&gt; Editor ---&gt; Templates ---&gt; New JavaServer Faces(JSF) Page (html) ---&gt; Edit...</li></ol><figure><img src="'+a+'" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure><figure><img src="'+l+'" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure><figure><img src="'+o+`" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>&lt;%@ page language=&quot;java&quot; contentType=&quot;text/html; charset=\${encoding}&quot; pageEncoding=&quot;\${encoding}&quot;%&gt;
+&lt;%@ taglib prefix=&quot;f&quot;  uri=&quot;http://java.sun.com/jsf/core&quot;%&gt;
+&lt;%@ taglib prefix=&quot;h&quot;  uri=&quot;http://java.sun.com/jsf/html&quot;%&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=\${encoding}&quot;&gt;
+&lt;title&gt;Insert title here&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;f:view&gt;
+\${cursor}
+&lt;/f:view&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="`+c+'" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure><ol start="2"><li>测试</li></ol><figure><img src="'+g+'" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure><figure><img src="'+r+'" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure><figure><img src="'+d+'" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure><p><strong>如图所示：测试成功</strong></p><figure><img src="'+p+'" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure><p><strong>以上就是我对于 Eclipse设置JSP页面为HTML5格式 的解决方法</strong></p><hr><h3 id="分割线" tabindex="-1"><a class="header-anchor" href="#分割线" aria-hidden="true">#</a> 分割线</h3><hr><div class="hint-container info"><p class="hint-container-title">相关信息</p><p><strong>以上就是我关于 <em>Eclipse设置JSP页面为HTML5格式</em> 知识点的整理与总结的全部内容，希望对你有帮助。。。。。。。</strong></p></div>',19);function f(v,_){return i(),e("div",null,[n(" more "),m])}const b=t(u,[["render",f],["__file","eclipse18.html.vue"]]);export{b as default};
