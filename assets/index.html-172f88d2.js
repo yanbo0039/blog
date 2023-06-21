@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-09061acc","path":"/zh/2023/ServerSideLanguage/Liux/","title":"Liux","lang":"en-US","frontmatter":{"title":"Liux","article":false,"feed":false,"sitemap":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.03,"words":10},"filePathRelative":null}');export{e as data};
