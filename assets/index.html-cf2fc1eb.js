@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-96a48e10","path":"/zh/2023/LittleBlogs/Computer/","title":"Computer","lang":"en-US","frontmatter":{"title":"Computer","article":false,"feed":false,"sitemap":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.03,"words":10},"filePathRelative":null}');export{e as data};
