@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-76ed3896","path":"/zh/2023/IDE/Eclipse/","title":"Eclipse","lang":"en-US","frontmatter":{"title":"Eclipse","article":false,"feed":false,"sitemap":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.03,"words":10},"filePathRelative":null}');export{e as data};

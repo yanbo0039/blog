@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-054faf19","path":"/zh/2023/Database/MySql/","title":"My Sql","lang":"en-US","frontmatter":{"title":"My Sql","article":false,"feed":false,"sitemap":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.03,"words":10},"filePathRelative":null}');export{e as data};

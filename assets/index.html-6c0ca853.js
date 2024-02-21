@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-1a4c2a2d","path":"/zh/2023/ClientSideLanguage/","title":"Client Side Language","lang":"en-US","frontmatter":{"title":"Client Side Language","article":false,"feed":false,"sitemap":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0.03,"words":10},"filePathRelative":null}');export{e as data};
